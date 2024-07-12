@@ -1,6 +1,6 @@
 # Challenge ONE | Front End -  Portafolio
 
-### ¡Bienvenido al proyecto del Portafolio ! Pasos principales:
+### ¡Bienvenido al proyecto del Portafolio:
 ---
-#### Michael Stiven Castaño Cortes ⭐
+#### Michael Stiven Castaño Cortes. ⭐
 

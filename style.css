@@ -8,7 +8,7 @@ coloque nas sessões indicadas*/
     /* Inserta la variable de los otros colores inspeccionando el exemplo de figma */
     /*Se esforce para trabalhar com variáveis, é uma dica profissional valiosa*/
    --cor-de-fundo: #F5F5F5;
-   --cor-de-link: #000;
+   --cor-de-link: #464646;
 }
 
 body {
@@ -52,9 +52,22 @@ section.menu{
     
 }
 
+.menu__title{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18.78px;
+    text-align: left;
+    color: #464646;
+}
+
 .menu__list{
     display: flex;
     gap: 32px;
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.78px;
+    text-align: left;
 }
 
 .menu__header{
@@ -66,10 +79,6 @@ section.menu{
 
 /*Sección Title*/
 
-section.title{
-
-}
-
 .title__div{
     display: flex;
     flex-direction: row-reverse;
@@ -80,7 +89,6 @@ section.title{
 }
 
 .title__bio{
-    font-family: 'Raleway', sans-serif;
     font-size: 52px;
     font-weight: 700;
     line-height: 61.05px;
@@ -89,7 +97,6 @@ section.title{
 }
 
 .title__subsection{
-    font-family: Raleway;
     font-size: 22px;
     font-weight: 400;
     line-height: 25.83px;
@@ -103,6 +110,16 @@ section.title{
     height: 24px;
     gap: 32px;
     padding: 0;
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.78px;
+    text-align: left;
+}
+
+.title__network img {
+    width: 11px;
+    height: 11px;
 }
 
 /*Sección About*/
